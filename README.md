@@ -1,5 +1,5 @@
 # Whiteboard Design Sessions: Progress
-| [Day 1: Architecture](day1_architecture.md) | --- | --- | --- |
+| [Day 1: Architecture](day1_architecture.md) | [Day 2: Data](day2_data.md) | --- | --- |
 | --- | --- | --- | --- |
 
 # Company
